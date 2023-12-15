@@ -24,7 +24,7 @@ params:
     value: "X:/some/path/for/default/proteinGroups.txt"
   pathRDS:
     label: "File path RDS file"
-    value: "X:/some/path/for/default/data/results_v002/"
+    value: "X:/some/path/for/default/data/results/"
   unique: 
     label: "Number of unique peptides for identification"
     value: 2
